@@ -34,9 +34,7 @@ API-сервис для поиска родословной людей с исп
 
 ## Запуск проекта
 
-1. Cклонируйте репозиторий: 
-
-    https://gitlab.com/abryliakova-group/ballet_blaybill.git
+1. Cклонируйте репозиторий
 
 
 2. В виртуальном окружении установите зависимости `pip install -r requirements.txt` 
